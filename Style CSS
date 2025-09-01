@@ -1,0 +1,11 @@
+{
+bakground-color: lightblue;
+.text{
+    font size 22px;
+
+}
+.p{
+    text-align: center;
+    color: red;
+}
+}
