@@ -1,0 +1,16 @@
+{
+bakground-color: lightblue;
+.text{
+    font size 22px;
+
+}
+<h1 class="text" </h1>
+.p{
+    text-align: center;
+    color: red;
+}
+text 2{
+    
+}
+
+}
